@@ -2,7 +2,4 @@
 
 Modifico el markdown
 
-## Subtitulos
-
- - Lista
- - Lista
+Borro el subtítulo y la lista.
